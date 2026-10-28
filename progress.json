@@ -1,0 +1,12 @@
+{
+  "sessions": 4,
+  "calculations": 1,
+  "story_stage": 0,
+  "history": [
+    {
+      "expression": "1+33*3.937",
+      "result": "130.921"
+    }
+  ],
+  "intro_seen": true
+}
